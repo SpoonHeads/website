@@ -1,5 +1,6 @@
 {
     "name": "1INCH Token",
     "description": "1INCH Token transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x111111111117dC0aa78b770fA6A738034120C302.",
-    "symbol": "j1INCH"
+    "symbol": "TSTON",
+    "decimals": 9
 }
