@@ -1,7 +1,7 @@
 {
     "uri": "https://github.spoonheads.io/TSTON.min.json",
     "name": "TSTON Token",
-    "description": "Тестовый токен в сети TON",
+    "description": "Test token in TON blockchain",
     "image": "https://github.spoonheads.io/SHC-256.png",
     "symbol": "TSTON",
     "decimals": 9
