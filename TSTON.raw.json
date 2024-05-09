@@ -3,6 +3,6 @@
     "name": "ZZTON Token",
     "description": "Тестовый токен в сети TON",
     "image": "https://github.spoonheads.io/SHC-256.png",
-    "decimals": 9,
+    "decimals": 8,
     "symbol": "ZZTON"
 }
