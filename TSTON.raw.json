@@ -1,8 +1,5 @@
 {
-    "uri": "https://github.spoonheads.io/TSTON.min.json",
-    "name": "TSTON Token",
-    "description": "Test token in TON blockchain",
-    "image": "https://github.spoonheads.io/SHC-256.png",
-    "symbol": "TSTON",
-    "decimals": 9
+    "name": "1INCH Token",
+    "description": "1INCH Token transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x111111111117dC0aa78b770fA6A738034120C302.",
+    "symbol": "j1INCH"
 }
