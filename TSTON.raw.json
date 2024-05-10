@@ -1,6 +1,6 @@
 {
     "uri": "https://github.spoonheads.io/TSTON.min.json",
-    "decimals": 9,
+    "decimals": 6,
     "name": "ZZTON Token",
     "description": "Тестовый токен в сети TON",
     "image": "https://github.spoonheads.io/SHC-256.png",
